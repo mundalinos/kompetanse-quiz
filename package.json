@@ -1,0 +1,19 @@
+{
+  "name": "kompetanse-quiz",
+  "version": "1.0.0",
+  "description": "Enkel quiz generert fra kompetansemål på udir.no",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "build": "node scripts/build-static.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.9.0",
+    "zod": "^4.6.7"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "source": "https://www.udir.no/lk20/tan03-03/kompetansemaal-og-vurdering/kv476",
+  "note": "Håndskrevet spørsmålsbank. Hvert spørsmål er knyttet til et kompetansemål via goalId. Kvalitetssikres av faglærer før bruk.",
+  "questions": [
+    {
+      "goalId": "KM5226",
+      "question": "Du skal assistere ved en rotfylling i morgen. Hva er det viktigste å gjøre når du planlegger arbeidet?",
+      "correct": "Lese behandlingsplanen og klargjøre riktig utstyr og materialer på forhånd",
+      "wrong": ["Vente til pasienten kommer og spørre tannlegen da", "Legge fram alle instrumenter klinikken har", "Bestille ny time til pasienten"],
+      "explanation": "God planlegging betyr å vite hva som skal skje, slik at riktig utstyr er klart og behandlingen går effektivt og trygt."
+    },
+    {
+      "goalId": "KM5226",
+      "question": "Hvorfor er det viktig å dokumentere eget arbeid på tannklinikken?",
+      "correct": "Det gir sporbarhet og gjør det mulig å kvalitetssikre og forbedre arbeidet",
+      "wrong": ["Det er bare nødvendig når noe går galt", "Det er kun tannlegens ansvar", "Det er for at pasienten skal få en kopi"],
+      "explanation": "Dokumentasjon (f.eks. steriliseringslogg, avvik, journalnotat) viser hva som er gjort og gir grunnlag for forbedring."
+    },
+    {
+      "goalId": "KM5226",
+      "question": "Hva kjennetegner en god vurdering av eget arbeid etter en arbeidsdag?",
+      "correct": "Du sammenligner det du gjorde med planen og finner hva som kan gjøres bedre neste gang",
+      "wrong": ["Du teller hvor mange pasienter du hadde", "Du spør kollegaene om de likte deg", "Du skriver ned hva tannlegen gjorde feil"],
+      "explanation": "Vurdering handler om å reflektere over resultat og arbeidsmåte opp mot målet for arbeidet."
+    },
+    {
+      "goalId": "KM5224",
+      "question": "Hva er riktig rekkefølge i behandlingen av brukte håndinstrumenter?",
+      "correct": "Rengjøring/desinfeksjon → tørking og kontroll → pakking → sterilisering",
+      "wrong": ["Sterilisering → rengjøring → pakking", "Pakking → sterilisering → rengjøring", "Sterilisering direkte uten rengjøring"],
+      "explanation": "Instrumenter må være rene før sterilisering, ellers kan smuss beskytte mikroorganismer mot steriliseringen."
+    },
+    {
+      "goalId": "KM5224",
+      "question": "Hvilken metode brukes vanligvis for å sterilisere instrumenter på tannklinikken?",
+      "correct": "Dampsterilisering i autoklav (ca. 134 °C)",
+      "wrong": ["Vask i oppvaskmaskin på 60 °C", "Avtørking med sprit", "Koking i vann i 5 minutter"],
+      "explanation": "Autoklaven bruker mettet damp under trykk. 134 °C er en vanlig program-temperatur."
+    },
+    {
+      "goalId": "KM5224",
+      "question": "Hvordan bør roterende instrumenter som vinkelstykker og turbiner vedlikeholdes?",
+      "correct": "Rengjøres og smøres etter produsentens anvisning før sterilisering",
+      "wrong": ["De skal aldri smøres", "De legges i desinfeksjonsbad over natten", "De byttes ut etter hver pasient"],
+      "explanation": "Feil vedlikehold gir slitasje og kan gi dårlig steriliseringsresultat. Produsentens anvisning gjelder."
+    },
+    {
+      "goalId": "KM5224",
+      "question": "Hvordan beskyttes en digital intraoral røntgensensor mellom pasienter?",
+      "correct": "Den brukes med engangsbeskyttelse (trekk) og desinfiseres etter bruk",
+      "wrong": ["Den autoklaveres", "Den skylles i vann", "Den trenger ingen beskyttelse fordi den er digital"],
+      "explanation": "Sensoren tåler ikke autoklavering. Engangstrekk og desinfeksjon hindrer smitteoverføring."
+    },
+    {
+      "goalId": "KM5217",
+      "question": "Hvilken lov pålegger helsepersonell å føre journal?",
+      "correct": "Helsepersonelloven",
+      "wrong": ["Arbeidsmiljøloven", "Forvaltningsloven", "Tannhelsetjenesteloven"],
+      "explanation": "Journalplikten står i helsepersonelloven, med utfyllende regler i pasientjournalforskriften."
+    },
+    {
+      "goalId": "KM5217",
+      "question": "En nabo av deg er pasient på klinikken. Du er nysgjerrig på hva hun skal behandles for. Kan du åpne journalen?",
+      "correct": "Nei, du kan bare åpne journaler når du har tjenstlig behov",
+      "wrong": ["Ja, alle ansatte har tilgang til alle journaler", "Ja, hvis du ikke forteller det til noen", "Ja, så lenge tannlegen er til stede"],
+      "explanation": "Det er forbudt å lese journalopplysninger uten tjenstlig behov (helsepersonelloven § 21 a). Oppslag logges."
+    },
+    {
+      "goalId": "KM5217",
+      "question": "En pasient ber om å få se journalen sin. Hva er riktig?",
+      "correct": "Pasienten har som hovedregel rett til innsyn i egen journal",
+      "wrong": ["Journalen tilhører klinikken, så pasienten har ikke rett til innsyn", "Pasienten må ha advokat for å få innsyn", "Bare tannlegen kan se journalen"],
+      "explanation": "Retten til innsyn står i pasient- og brukerrettighetsloven § 5-1."
+    },
+    {
+      "goalId": "KM5223",
+      "question": "Hva er det viktigste enkelttiltaket for å hindre smitte på tannklinikken?",
+      "correct": "God håndhygiene",
+      "wrong": ["Å bruke munnbind hele dagen", "Å lufte behandlingsrommet", "Å bruke antibiotika forebyggende"],
+      "explanation": "Håndhygiene er det viktigste av de basale smittevernrutinene."
+    },
+    {
+      "goalId": "KM5223",
+      "question": "Hvilke flater skal rengjøres og desinfiseres mellom hver pasient?",
+      "correct": "Kontaktflater som er berørt under behandlingen, f.eks. stolarmer, lampehåndtak og arbeidsbord",
+      "wrong": ["Bare gulvet", "Bare flater med synlig blod", "Ingen – det holder å gjøre det ved dagens slutt"],
+      "explanation": "Alle flater som er berørt med hansker eller forurenset under behandlingen, skal desinfiseres før neste pasient."
+    },
+    {
+      "goalId": "KM5223",
+      "question": "Hvilken smittevei er særlig aktuell når tannlegen bruker turbin?",
+      "correct": "Dråpe- og aerosolsmitte",
+      "wrong": ["Smitte via mat", "Smitte via insekter", "Ingen smittevei – turbinen er steril"],
+      "explanation": "Turbin og ultralyd lager sprut og aerosoler. Derfor brukes sug, munnbind og beskyttelsesbriller."
+    },
+    {
+      "goalId": "KM5223",
+      "question": "Hvorfor gjennomskylles vannslangene i uniten ved oppstart og mellom pasienter?",
+      "correct": "For å redusere bakterievekst (biofilm) i vannet",
+      "wrong": ["For å kjøle ned uniten", "For å teste vanntrykket til kommunen", "For å fjerne kalk fra tennene"],
+      "explanation": "Stillestående vann i tynne slanger gir biofilm. Gjennomskylling reduserer mengden bakterier."
+    },
+    {
+      "goalId": "KM5222",
+      "question": "Hva betyr optimaliseringsprinsippet (ALARA) ved røntgen?",
+      "correct": "Stråledosen skal være så lav som praktisk mulig, samtidig som bildet gir nødvendig informasjon",
+      "wrong": ["Det skal tas så mange bilder som mulig", "Det skal alltid brukes høyest mulig dose for best bilde", "Bare tannlegen kan bli bestrålt"],
+      "explanation": "ALARA = As Low As Reasonably Achievable."
+    },
+    {
+      "goalId": "KM5222",
+      "question": "Hvilken myndighet fører tilsyn med strålebruk i tannhelsetjenesten i Norge?",
+      "correct": "Direktoratet for strålevern og atomsikkerhet (DSA)",
+      "wrong": ["Arbeidstilsynet", "Mattilsynet", "Helfo"],
+      "explanation": "DSA forvalter strålevernforskriften og fører tilsyn med røntgen på tannklinikker."
+    },
+    {
+      "goalId": "KM5222",
+      "question": "Tennene ser forkortet eller forlenget ut på et intraoralt røntgenbilde. Hva er den mest sannsynlige årsaken?",
+      "correct": "Feil vertikal vinkling av røntgenrøret",
+      "wrong": ["Feil horisontal vinkling", "For lang eksponeringstid", "Pasienten har for mange tenner"],
+      "explanation": "Feil vertikal vinkling gir forkortning/forlengning. Feil horisontal vinkling gir overlappende kontaktpunkter."
+    },
+    {
+      "goalId": "KM5222",
+      "question": "Hva brukes bitewing-bilder hovedsakelig til?",
+      "correct": "Å oppdage karies mellom tennene (approksimalt) og vurdere benhøyden",
+      "wrong": ["Å se hele kjeven og kjeveleddene", "Å måle lengden på rotkanaler", "Å se bihulene"],
+      "explanation": "Bitewing viser kronene i over- og underkjeven samtidig og er standard for kariesdiagnostikk mellom tenner."
+    },
+    {
+      "goalId": "KM5222",
+      "question": "Hvorfor brukes filmholder (sensorholder) ved intraorale opptak?",
+      "correct": "For å få riktig vinkling og plassering, slik at bildet blir uten forvrengning og ikke må tas på nytt",
+      "wrong": ["For at pasienten skal holde sensoren med fingeren", "For å øke stråledosen", "Fordi sensoren ellers blir varm"],
+      "explanation": "Holder gir parallell teknikk og reproduserbare bilder. Færre omtak betyr lavere stråledose."
+    },
+    {
+      "goalId": "KM5221",
+      "question": "Hvilken oppgave er et eksempel på klinikkadministrativt arbeid?",
+      "correct": "Føre timebok, innkalle pasienter og bestille varer",
+      "wrong": ["Bore ut karies", "Sette lokalbedøvelse", "Stille diagnose"],
+      "explanation": "Tannhelsesekretæren har ofte ansvar for timebok, innkalling, varebestilling og arkiv."
+    },
+    {
+      "goalId": "KM5221",
+      "question": "En pasient ringer og melder avbud i dag. Hva gjør du?",
+      "correct": "Registrerer avbudet i timeboka og prøver å fylle timen, f.eks. fra venteliste",
+      "wrong": ["Ignorerer det, pasienten kommer sikkert likevel", "Sletter pasienten fra systemet", "Sier at avbud ikke er lov"],
+      "explanation": "God timebokføring gir effektiv drift og kortere ventetid for andre pasienter."
+    },
+    {
+      "goalId": "KM5221",
+      "question": "Hva bør du sjekke når du tar imot en varelevering med forbruksmateriell?",
+      "correct": "At leveransen stemmer med bestillingen og holdbarhetsdatoen på varene",
+      "wrong": ["Bare at esken ikke er skadet", "At prisen er lavere enn forrige gang", "Ingenting – leverandøren har ansvaret"],
+      "explanation": "Varemottak skal kontrolleres, og eldste varer brukes først for å unngå utgått materiell."
+    },
+    {
+      "goalId": "KM5241",
+      "question": "Hvem får gratis tannbehandling i den offentlige tannhelsetjenesten?",
+      "correct": "Barn og unge til og med det året de fyller 18",
+      "wrong": ["Alle over 67 år", "Alle som har fastlege", "Ingen – all tannbehandling må betales"],
+      "explanation": "Barn og unge 0–18 år er en prioritert gruppe med gratis tilbud. Andre grupper kan ha redusert egenandel."
+    },
+    {
+      "goalId": "KM5241",
+      "question": "Hvilken etat gir stønad (refusjon) for tannbehandling ved visse sykdommer og tilstander?",
+      "correct": "Helfo",
+      "wrong": ["Skatteetaten", "Statens vegvesen", "Arbeidstilsynet"],
+      "explanation": "Helfo dekker deler av utgiftene for bestemte tilstander etter folketrygdloven. Klinikken sender ofte oppgjør direkte."
+    },
+    {
+      "goalId": "KM5241",
+      "question": "En pasient skal ha omfattende behandling og spør hva det vil koste. Hva gjør du?",
+      "correct": "Gir et kostnadsoverslag før behandlingen starter",
+      "wrong": ["Sier at prisen først kan regnes ut etterpå", "Gir pasienten prislisten for en annen klinikk", "Sier at det er gratis for å berolige pasienten"],
+      "explanation": "Pasienten har krav på prisinformasjon, og ved større behandlinger bør det gis skriftlig overslag."
+    },
+    {
+      "goalId": "KM5241",
+      "question": "Hva må en faktura for tannbehandling inneholde?",
+      "correct": "Dato, spesifisert behandling (takster), beløp og betalingsinformasjon",
+      "wrong": ["Bare totalbeløpet", "Bare pasientens navn", "Tannlegens private telefonnummer"],
+      "explanation": "En spesifisert faktura gjør det mulig for pasienten og Helfo å se hva som er utført og betalt for."
+    },
+    {
+      "goalId": "KM5219",
+      "question": "Hva er hensikten med firhåndsteknikk?",
+      "correct": "Assistent og tannlege samarbeider slik at tannlegen kan holde fokus i munnen og arbeidet blir effektivt og ergonomisk",
+      "wrong": ["Tannlegen bruker begge hender på hvert instrument", "Pasienten holder suget selv", "To tannleger behandler samtidig"],
+      "explanation": "Assistenten suger, holder oversikt og rekker instrumenter, så tannlegen slipper å flytte blikket."
+    },
+    {
+      "goalId": "KM5219",
+      "question": "Hvorfor er god tørrlegging viktig når tannlegen legger en komposittfylling?",
+      "correct": "Fukt og spytt svekker bindingen mellom fyllingen og tannen",
+      "wrong": ["Kompositt blir hvitere når den er tørr", "For å gjøre det lettere å bore", "Det er bare for pasientens komfort"],
+      "explanation": "Kompositt bindes til tann med bonding som er fuktfølsom. Kofferdam eller bomullsruller og sug hindrer kontaminering."
+    },
+    {
+      "goalId": "KM5219",
+      "question": "Hvilken informasjon er riktig å gi pasienten etter lokalbedøvelse?",
+      "correct": "Vent med å spise til bedøvelsen har gått ut, så du ikke biter deg i leppa eller kinnet",
+      "wrong": ["Du må ikke drikke vann i et døgn", "Du må ta antibiotika", "Du må ikke pusse tennene på en uke"],
+      "explanation": "Pasienten kjenner ikke smerte mens bedøvelsen virker og kan skade seg uten å merke det."
+    },
+    {
+      "goalId": "KM5219",
+      "question": "Hvilket råd er riktig å gi etter en tanntrekking?",
+      "correct": "Bit på kompressen en stund, og unngå å skylle munnen kraftig det første døgnet",
+      "wrong": ["Skyll munnen kraftig med en gang", "Røyk gjerne for å roe ned", "Drikk med sugerør resten av dagen"],
+      "explanation": "Blodproppen i tannhulen må få være i fred. Kraftig skylling, sug og røyking kan løsne den."
+    },
+    {
+      "goalId": "KM5219",
+      "question": "Tannlegen sier «fyllingen skal på 36». Hvilken tann er det (FDI-systemet)?",
+      "correct": "Underkjeven venstre side, første jeksel (molar)",
+      "wrong": ["Overkjeven høyre side, hjørnetann", "Underkjeven høyre side, første premolar", "Overkjeven venstre side, visdomstann"],
+      "explanation": "Første siffer er kvadrant (3 = underkjeven venstre), andre siffer er tannen (6 = første molar)."
+    },
+    {
+      "goalId": "KM5219",
+      "question": "Hva er årsaken til karies?",
+      "correct": "Bakterier i plakk danner syre av sukker, og syren løser opp tannens mineraler",
+      "wrong": ["For mye fluor", "Tannstein som presser på tannen", "Arvelige hull i emaljen"],
+      "explanation": "Karies er en syreangrep-sykdom. Hyppig sukkerinntak og dårlig renhold øker risikoen."
+    },
+    {
+      "goalId": "KM5218",
+      "question": "Hvorfor skal et alginatavtrykk støpes ut i gips relativt raskt?",
+      "correct": "Alginat endrer form når det tørker ut eller trekker til seg vann",
+      "wrong": ["Alginat blir giftig etter en time", "Gipsen herder ikke ellers", "Avtrykket blir mørkere"],
+      "explanation": "Alginat er dimensjonsustabilt. Venter du for lenge, blir modellen unøyaktig."
+    },
+    {
+      "goalId": "KM5218",
+      "question": "Hva skal gjøres med et avtrykk før det sendes til tannteknikeren?",
+      "correct": "Det skal skylles og desinfiseres",
+      "wrong": ["Det skal autoklaveres", "Det skal tørkes med hårføner", "Ingenting, teknikeren tar seg av det"],
+      "explanation": "Avtrykk har vært i munnen og er potensielt smitteførende. Desinfeksjon beskytter teknikeren."
+    },
+    {
+      "goalId": "KM5218",
+      "question": "Hvorfor vibrerer man avtrykket mens gipsen helles i?",
+      "correct": "For å få ut luftbobler slik at modellen blir nøyaktig",
+      "wrong": ["For at gipsen skal herde raskere", "For å blande inn mer vann", "For å varme opp gipsen"],
+      "explanation": "Luftbobler gir hull og ujevnheter i modellen."
+    },
+    {
+      "goalId": "KM5220",
+      "question": "Hvor finner du informasjon om hvordan et kjemikalie skal håndteres og hva du gjør ved søl eller eksponering?",
+      "correct": "I sikkerhetsdatabladet (stoffkartoteket)",
+      "wrong": ["På klinikkens nettside", "I pasientjournalen", "På fakturaen fra leverandøren"],
+      "explanation": "Virksomheten skal ha stoffkartotek med sikkerhetsdatablad for farlige kjemikalier."
+    },
+    {
+      "goalId": "KM5220",
+      "question": "Du stikker deg på en brukt kanyle. Hva gjør du først?",
+      "correct": "Lar det blø, vasker med såpe og vann, desinfiserer og melder fra etter klinikkens rutine",
+      "wrong": ["Setter på plaster og jobber videre", "Suger på såret", "Venter og ser om du blir syk"],
+      "explanation": "Stikkskader skal følges opp etter fastsatt rutine (bl.a. blodprøver) og registreres som avvik/yrkesskade."
+    },
+    {
+      "goalId": "KM5220",
+      "question": "Hva krever internkontrollforskriften av virksomheten?",
+      "correct": "Systematisk HMS-arbeid: kartlegge risiko, ha rutiner, og følge opp avvik",
+      "wrong": ["At alle ansatte tar førstehjelpskurs hver måned", "At klinikken har eget kantine", "At pasientene skriver under på HMS-skjema"],
+      "explanation": "Internkontroll = systematiske tiltak som sikrer at krav i HMS-lovgivningen følges."
+    },
+    {
+      "goalId": "KM5214",
+      "question": "Hvor skal brukte kanyler og skalpellblader kastes?",
+      "correct": "I en stikksikker beholder (kanyleboks)",
+      "wrong": ["I vanlig restavfall", "I papirkurven", "I plastresirkulering"],
+      "explanation": "Stikkende og skjærende avfall skal i stikksikker emballasje for å hindre stikkskader."
+    },
+    {
+      "goalId": "KM5214",
+      "question": "Hvordan skal amalgamrester og tenner med amalgamfyllinger håndteres?",
+      "correct": "Som farlig avfall, samlet separat og levert til godkjent mottak",
+      "wrong": ["Kastes i restavfall", "Skylles ned i vasken", "Gis til pasienten å ta med hjem"],
+      "explanation": "Amalgam inneholder kvikksølv. Klinikker har amalgamutskiller, og avfallet skal leveres som farlig avfall."
+    },
+    {
+      "goalId": "KM5214",
+      "question": "Hvorfor er kildesortering av avfall viktig på tannklinikken?",
+      "correct": "Det beskytter miljøet og de som håndterer avfallet, og det er lovpålagt for farlig og smittefarlig avfall",
+      "wrong": ["Det er bare for at det skal se ryddig ut", "For at klinikken skal tjene penger på avfall", "Det er ikke viktig så lenge sekkene er lukket"],
+      "explanation": "Feil sortering kan gi forurensning og stikk- eller smitteskader hos renholdere og avfallsarbeidere."
+    },
+    {
+      "goalId": "KM5216",
+      "question": "Hva er en god arbeidsstilling for assistenten ved behandlingsstolen?",
+      "correct": "Rett rygg, føttene i gulvet, overarmene inntil kroppen og arbeidsfeltet i riktig høyde",
+      "wrong": ["Bøyd fram over pasienten med armene løftet", "Stående på én fot for å nå bedre", "Vridd overkropp mot instrumentbordet hele tiden"],
+      "explanation": "Nøytral stilling reduserer belastningen på nakke, skuldre og rygg."
+    },
+    {
+      "goalId": "KM5216",
+      "question": "Hvilke helseplager er vanligst hos tannhelsepersonell på grunn av dårlig ergonomi?",
+      "correct": "Muskel- og skjelettplager i nakke, skuldre og rygg",
+      "wrong": ["Hørselstap", "Allergi mot kaffe", "Dårlig syn på grunn av lampen"],
+      "explanation": "Statiske og vridde arbeidsstillinger over tid gir muskel- og skjelettplager."
+    },
+    {
+      "goalId": "KM5216",
+      "question": "Hvordan kan du forebygge belastningsskader i en travel arbeidsdag?",
+      "correct": "Variere arbeidsstilling, ta mikropauser og plassere utstyr innen rekkevidde",
+      "wrong": ["Jobbe i samme stilling hele dagen for å bli vant til det", "Ta alle pausene på slutten av dagen", "Holde instrumentbordet langt unna for å få bevegelse"],
+      "explanation": "Variasjon og god organisering av arbeidsplassen gir mindre statisk belastning."
+    },
+    {
+      "goalId": "KM5215",
+      "question": "Hva er trepartssamarbeidet i den norske modellen?",
+      "correct": "Samarbeid mellom arbeidstakerorganisasjoner, arbeidsgiverorganisasjoner og staten",
+      "wrong": ["Samarbeid mellom tannlege, assistent og pasient", "Samarbeid mellom tre politiske partier", "Samarbeid mellom kommune, fylke og skole"],
+      "explanation": "Partene i arbeidslivet og myndighetene samarbeider om lønnsdannelse, arbeidsliv og økonomisk politikk."
+    },
+    {
+      "goalId": "KM5215",
+      "question": "Hva er en tariffavtale?",
+      "correct": "En avtale mellom fagforening og arbeidsgiver(organisasjon) om lønn og arbeidsvilkår",
+      "wrong": ["En avtale mellom pasient og tannlege om pris", "En skatteavtale med staten", "Klinikkens prisliste"],
+      "explanation": "Tariffavtaler forhandles kollektivt og gir minimumsvilkår for de som er omfattet."
+    },
+    {
+      "goalId": "KM5215",
+      "question": "Hvilken rettighet har du som arbeidstaker etter arbeidsmiljøloven?",
+      "correct": "Rett til skriftlig arbeidsavtale",
+      "wrong": ["Rett til å bestemme egen lønn", "Rett til fri når du vil", "Rett til å slippe å følge instrukser"],
+      "explanation": "Alle arbeidsforhold skal ha skriftlig arbeidsavtale (arbeidsmiljøloven § 14-5)."
+    },
+    {
+      "goalId": "KM5215",
+      "question": "Hvem velger verneombudet, og hva er oppgaven?",
+      "correct": "Arbeidstakerne velger verneombudet, som skal ivareta de ansattes interesser i arbeidsmiljøsaker",
+      "wrong": ["Daglig leder utnevner verneombudet for å kontrollere de ansatte", "Pasientene velger verneombudet", "Arbeidstilsynet velger et verneombud for hver klinikk"],
+      "explanation": "Verneombudet er arbeidstakernes representant i HMS-saker."
+    }
+  ]
+}
